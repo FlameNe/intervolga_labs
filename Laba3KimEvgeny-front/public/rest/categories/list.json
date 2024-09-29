@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "category": "Synthetic",
+    "description": "Fully synthetic motor oils for high-performance engines"
+  },
+  {
+    "id": 2,
+    "category": "Semi-Synthetic",
+    "description": "Blend of synthetic and conventional oils"
+  },
+  {
+    "id": 3,
+    "category": "Conventional",
+    "description": "Standard motor oil for regular use"
+  },
+  {
+    "id": 4,
+    "category": "High Mileage",
+    "description": "Designed for vehicles with over 75,000 miles"
+  }
+]
